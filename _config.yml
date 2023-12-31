@@ -448,7 +448,7 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: true
+  enable: false
   clientID: 3587de64d21667d3f1d9
   clientSecret: 4588adb27d7f71f609fa0203fef30210b6c9c8b9
   repo:   blog-comment
@@ -492,7 +492,7 @@ google_analytics: UA-148397420-2
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
@@ -670,7 +670,7 @@ vendors:
   _internal: assets/lib
 
   # Internal version: 2.1.3
-  jquery:
+  jquery: https://cdn.jsdelivr.net/gh/jquery/jquery@2.1.3/dist/jquery.min.js
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
