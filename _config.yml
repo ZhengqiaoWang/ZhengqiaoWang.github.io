@@ -475,7 +475,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: UA-148397420-2
+google_analytics:
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
