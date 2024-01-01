@@ -242,7 +242,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/ZhengqiaoWang/blog_resources_1@main/202401011043402.webp
+avatar: https://hub.gitmirror.com/https://raw.githubusercontent.com/ZhengqiaoWang/blog_resources_1/main/202401011043402.webp
 
 
 # Table Of Contents in the Sidebar
@@ -377,7 +377,7 @@ highlight_theme: normal
 mathjax:
   enable: false
   per_page: false
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: 
 
 # Han Support docs: https://hanzi.pro/
 han: false
@@ -670,7 +670,7 @@ vendors:
   _internal: assets/lib
 
   # Internal version: 2.1.3
-  jquery: https://cdn.jsdelivr.net/gh/jquery/jquery@2.1.3/dist/jquery.min.js
+  jquery: 
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
