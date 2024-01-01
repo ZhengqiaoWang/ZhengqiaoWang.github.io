@@ -242,7 +242,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.png
-avatar: /assets/images/avatar.webp
+avatar: https://cdn.jsdelivr.net/gh/ZhengqiaoWang/blog_resources_1@main//202401011043402.webp
 
 
 # Table Of Contents in the Sidebar
