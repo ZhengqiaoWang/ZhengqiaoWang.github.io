@@ -32,7 +32,7 @@ Raspberry Pi(树莓派)是应用物联网的一大平台，与其摄像头相关
 
 如下图所示
 
-![](https://cdn.jsdelivr.net/gh/ZhengqiaoWang/blog_resources_1@main/202210041101046.png)
+![](https://raw.gitmirror.com/ZhengqiaoWang/blog_resources_1/main/202210041101046.png)
 
 ### 第二步 开启摄像头功能
 

@@ -14,4 +14,4 @@ comments: true
 
 #### OBCA
 
-![OceanBase](https://cdn.jsdelivr.net/gh/ZhengqiaoWang/blog_resources_1@main/202211051145949.jpg)
+![OceanBase](https://raw.gitmirror.com/ZhengqiaoWang/blog_resources_1/main/202211051145949.jpg)
